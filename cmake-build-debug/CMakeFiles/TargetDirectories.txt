@@ -1,0 +1,3 @@
+/Users/rickyolive/Desktop/GradeCal/cmake-build-debug/CMakeFiles/GradeCal.dir
+/Users/rickyolive/Desktop/GradeCal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rickyolive/Desktop/GradeCal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
